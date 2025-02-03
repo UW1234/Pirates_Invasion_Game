@@ -1,8 +1,4 @@
-# PRO-C24-Reference_code
-reference code
-
 How to compile? (Needs Python to Play)
-
 Save the code in a zip file.
 Extract the zip file and remember which folder it is in.
 Using python create a virstual environment for an http server with any port(prefereblay 8000).
@@ -13,3 +9,5 @@ Navigate to the direcctory in which you extracted your zip file and click on tha
 Enjoy the Game!
 Once finished, use the command, CTRL+C in terminal to exist out of http server and close browser.
 Thank You for Playing!
+
+
